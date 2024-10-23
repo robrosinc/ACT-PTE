@@ -1,6 +1,6 @@
 # Nerfies
 
-This is the repository that contains source code for the [ACT-PTE website](https://act-pte.github.io).
+This is the repository that contains source code for the [ACT-PTE website](https://robrosinc.github.io/ACT-PTE.github.io/).
 
 If you find Nerfies useful for your work please cite:
 ```
